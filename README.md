@@ -34,5 +34,7 @@ see `contributing.md` for ways to get started
 ## :handshake: Contact
 
 Hemant Kumar - - hemant.kumardeveloper@gmail.ccom
-
+Raghav Pershad -- raghavpershad@gmail.com
+Nidihi Singh
+Archit Narula
 Project Link: [https://github.com/HATAKEkakshi/hackathon.git](https://github.com/HATAKEkakshi/hackathon.git)
