@@ -18,7 +18,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="Design/NewScreen.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="Design/New Screen.png" alt='image' width='800'/></a> </div>
 
 ### :key: Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
