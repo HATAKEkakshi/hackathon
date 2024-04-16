@@ -33,8 +33,8 @@ see `contributing.md` for ways to get started
 
 ## :handshake: Contact
 
-Hemant Kumar - - hemant.kumardeveloper@gmail.ccom
-Raghav Pershad -- raghavpershad@gmail.com
-Nidihi Singh
-Archit Narula
+Hemant Kumar - - hemant.kumardeveloper@gmail.ccom <br>
+Raghav Pershad -- raghavpershad@gmail.com <br>
+Nidihi Singh <br>
+Archit Narula <br>
 Project Link: [https://github.com/HATAKEkakshi/hackathon.git](https://github.com/HATAKEkakshi/hackathon.git)
