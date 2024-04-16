@@ -38,6 +38,6 @@ see `contributing.md` for ways to get started
 
 Hemant Kumar - - hemant.kumardeveloper@gmail.ccom <br>
 Raghav Pershad -- raghavpershad@gmail.com <br>
-Nidihi Singh <br>
-Archit Narula <br>
+Nidihi Singh -- nidsingh381@gmail.com <br>
+Archit Nirula  -- archinirula319@gmail.com<br>
 Project Link: [https://github.com/HATAKEkakshi/hackathon.git](https://github.com/HATAKEkakshi/hackathon.git)
