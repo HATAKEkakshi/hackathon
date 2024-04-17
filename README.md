@@ -24,19 +24,7 @@ Our AI model is designed to provide easy interface for people to connect with hi
 Our model mainly focuses on providing information about many different languages which have now been lost in the pages of time. 
 One of the interesting feature of our model is to interpret the meaning of ancient fonts and languages by using the information of different civilizations and cultures available by analysing a large sum of data at a time.
 
-### :key: Environment Variables
-To run this project, you will need to add the following environment variables to your .env file
-`.env`
 
-
-
-## :wave: Contributing
-
-<a href="https://github.com/HATAKEkakshi/hackathon.git/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
 
 ## :handshake: Contact
 
