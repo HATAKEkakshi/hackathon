@@ -20,6 +20,10 @@
 ### :camera: Screenshots
 <div align="center"> <a href=""><img src="Design/New Screen.png" alt='image' width='800'/></a> </div>
 
+Our AI model is designed to provide easy interface for people to connect with history and to quench their curiosity.
+Our model mainly focuses on providing information about many different languages which have now been lost in the pages of time. 
+One of the interesting feature of our model is to interpret the meaning of ancient fonts and languages by using the information of different civilizations and cultures available by analysing a large sum of data at a time.
+
 ### :key: Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
 `.env`
