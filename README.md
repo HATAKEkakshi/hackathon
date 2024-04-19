@@ -29,6 +29,6 @@ One of the interesting feature of our model is to interpret the meaning of ancie
 
 Hemant Kumar - - hemant.kumardeveloper@gmail.ccom <br>
 Raghav Pershad -- raghavpershad@gmail.com <br>
-Nidihi Singh -- nidsingh381@gmail.com <br>
+Nidhi Singh -- nidsingh381@gmail.com <br>
 Archit Nirula  -- archinirula319@gmail.com<br>
 Project Link: [https://github.com/HATAKEkakshi/hackathon.git](https://github.com/HATAKEkakshi/hackathon.git)
