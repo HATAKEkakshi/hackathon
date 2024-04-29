@@ -1,34 +1,64 @@
-<div align='center'>
+<h1 align="center" id="title">Glyph</h1>
 
-<h1>Glyph </h1>
-<p>An Ai translator for translating and Decoding anicent script and languages,manuscripts</p>
+<p id="description">An Ai assistant for Archeologists and Historians to decode ancient Scripts and manuscripts in seconds.</p>
 
-<h4> <span> · </span> <a href="https://github.com/HATAKEkakshi/hackathon/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/HATAKEkakshi/hackathon/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/HATAKEkakshi/hackathon/issues"> Request Feature </a> </h4>
+<h2>Project Screenshots:</h2>
 
+<img src="Design/New Screen.png" alt="project-screenshot" width="500" height="500/">
 
-</div>
+  
+  
+<h2>🧐 Features</h2>
 
-# :notebook_with_decorative_cover: Table of Contents
+Here're some of the project's best features:
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
+*   Time Saver
+*   Search With your own Data
 
+<h2>🛠️ Installation Steps:</h2>
 
-## :star2: About the Project
+<p>1. Simply clone the repository link</p>
 
-### :camera: Screenshots
-<div align="center"> <a href=""><img src="Design/New Screen.png" alt='image' width='800'/></a> </div>
+```
+git clone https://github.com/HATAKEkakshi/hackathon.git
+```
 
-Our AI model is designed to provide easy interface for people to connect with history and to quench their curiosity.
-Our model mainly focuses on providing information about many different languages which have now been lost in the pages of time. 
-One of the interesting feature of our model is to interpret the meaning of ancient fonts and languages by using the information of different civilizations and cultures available by analysing a large sum of data at a time.
+<p>2. After Cloning activate the Environment.</p>
 
+```
+conda activate /path_of_repo _cloned /ai/myenv
+```
 
+<p>3. Installing Required packages</p>
 
-## :handshake: Contact
+```
+pip install -r requirement.txt
+```
 
-Hemant Kumar - - hemant.kumardeveloper@gmail.ccom <br>
-Raghav Pershad -- raghavpershad@gmail.com <br>
-Nidhi Singh -- nidsingh381@gmail.com <br>
-Archit Nirula  -- archinirula319@gmail.com<br>
-Project Link: [https://github.com/HATAKEkakshi/hackathon.git](https://github.com/HATAKEkakshi/hackathon.git)
+<p>4. create a Environment Variable</p>
+
+```
+.env In this file Write OPENAI_API_KEY="Openai Api key"
+```
+
+<p>5. For Running the project</p>
+
+```
+streamlit run Glyph.py
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Langchain
+*   Python
+*   Streamlit
+*   Pinecone
+*   Flask
+*   React
+
+<h2>Message</h2>
+    <p>We are constatly working on prototype soon release its next version.</p>
