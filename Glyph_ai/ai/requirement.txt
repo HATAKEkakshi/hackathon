@@ -3,3 +3,15 @@ langchain
 streamlit
 OpenAI
 langchain-openai
+PyPDF2
+FAISS-cpu
+tiktoken
+langchain-community
+huggingface_hub
+python-dotenv
+unstructured
+pinecone-client
+pypdf 
+pandas
+numpy
+langchain_pinecone
