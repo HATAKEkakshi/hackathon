@@ -13,6 +13,14 @@ import tempfile
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
+
+#system message f
+if "flowmessage" not in st.session_state:
+    st.session_state['flowmessage']=[
+        SystemMessage(content="You are a Historical and archaeological assitant . Provide the best answer of the query as soon and as accurate as possible")
+    ]
+
+
 def get_pdf_text(pdf_docs):
     text = ""
     for pdf in pdf_docs:
